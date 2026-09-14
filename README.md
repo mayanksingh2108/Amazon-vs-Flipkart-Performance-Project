@@ -27,7 +27,6 @@
 - [Step 3 — Power BI Dashboards](#-step-3--power-bi-dashboards)
 - [Key Business Insights](#-key-business-insights)
 - [Repository Structure](#-repository-structure)
-- [How to Reproduce This Project](#-how-to-reproduce-this-project)
 - [Author](#-author)
 
 ---
@@ -216,7 +215,7 @@ Customer lifetime value, review/rating analysis, repeat vs. one-time buyer split
 
 ![Customer Insights Dashboard](./images/Screenshot_2026-09-14_170319.png)
 
-> 📄 The full interactive report file is available in [`Amazon_Vs_Flipkart_Project.pbix`](./Amazon_Vs_Flipkart_Project.pbix).
+> 📄 The full interactive report file is available in [`Amazon_Vs_Flipkart_Project.pbix`](./Amazon_Vs_Flipkart_Project(Dashboard).pbix).
 
 ---
 
@@ -248,17 +247,7 @@ Amazon-vs-Flipkart-Performance-Project/
 └── README.md
 ```
 
----
 
-## ⚙️ How to Reproduce This Project
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/mayanksingh2108/Amazon-vs-Flipkart-Performance-Project.git
-   ```
-2. **Run the notebook** — Open `Amazon_vs_FlipKart_Project.ipynb` in Jupyter and run all cells to clean, merge, and export the data. Update the MySQL `username`/`password` in the notebook to match your local setup before running the upload cell.
-3. **Run the SQL script** — Execute `Amazon_vs_Flipkart_Project.sql` in MySQL Workbench (or your client of choice) against the `a_vs_f` database created by the notebook.
-4. **Open the dashboard** — Open `Amazon_Vs_Flipkart_Project.pbix` in Power BI Desktop and point the data source to your local MySQL instance, then refresh.
 
 ---
 
