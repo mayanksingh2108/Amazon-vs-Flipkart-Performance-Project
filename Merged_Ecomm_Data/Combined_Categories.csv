@@ -1,0 +1,1001 @@
+category_id,category_name,subcategory,parent_category_id,platform
+CAT-0001,Electronics,Subcategory 1,,Amazon
+CAT-0002,Electronics,Subcategory 2,CAT-0001,Amazon
+CAT-0003,Electronics,Subcategory 3,CAT-0001,Amazon
+CAT-0004,Electronics,Subcategory 4,CAT-0001,Amazon
+CAT-0005,Electronics,Subcategory 5,CAT-0001,Amazon
+CAT-0006,Electronics,Subcategory 6,CAT-0001,Amazon
+CAT-0007,Electronics,Subcategory 7,CAT-0001,Amazon
+CAT-0008,Electronics,Subcategory 8,CAT-0001,Amazon
+CAT-0009,Electronics,Subcategory 9,CAT-0001,Amazon
+CAT-0010,Electronics,Subcategory 10,CAT-0001,Amazon
+CAT-0011,Electronics,Subcategory 11,CAT-0001,Amazon
+CAT-0012,Electronics,Subcategory 12,CAT-0001,Amazon
+CAT-0013,Electronics,Subcategory 13,CAT-0001,Amazon
+CAT-0014,Electronics,Subcategory 14,CAT-0001,Amazon
+CAT-0015,Electronics,Subcategory 15,CAT-0001,Amazon
+CAT-0016,Electronics,Subcategory 16,CAT-0001,Amazon
+CAT-0017,Electronics,Subcategory 17,CAT-0001,Amazon
+CAT-0018,Electronics,Subcategory 18,CAT-0001,Amazon
+CAT-0019,Electronics,Subcategory 19,CAT-0001,Amazon
+CAT-0020,Electronics,Subcategory 20,CAT-0001,Amazon
+CAT-0021,Electronics,Subcategory 21,CAT-0001,Amazon
+CAT-0022,Electronics,Subcategory 22,CAT-0001,Amazon
+CAT-0023,Electronics,Subcategory 23,CAT-0001,Amazon
+CAT-0024,Electronics,Subcategory 24,CAT-0001,Amazon
+CAT-0025,Electronics,Subcategory 25,CAT-0001,Amazon
+CAT-0026,Electronics,Subcategory 26,CAT-0001,Amazon
+CAT-0027,Electronics,Subcategory 27,CAT-0001,Amazon
+CAT-0028,Electronics,Subcategory 28,CAT-0001,Amazon
+CAT-0029,Electronics,Subcategory 29,CAT-0001,Amazon
+CAT-0030,Electronics,Subcategory 30,CAT-0001,Amazon
+CAT-0031,Electronics,Subcategory 31,CAT-0001,Amazon
+CAT-0032,Electronics,Subcategory 32,CAT-0001,Amazon
+CAT-0033,Electronics,Subcategory 33,CAT-0001,Amazon
+CAT-0034,Electronics,Subcategory 34,CAT-0001,Amazon
+CAT-0035,Electronics,Subcategory 35,CAT-0001,Amazon
+CAT-0036,Electronics,Subcategory 36,CAT-0001,Amazon
+CAT-0037,Electronics,Subcategory 37,CAT-0001,Amazon
+CAT-0038,Electronics,Subcategory 38,CAT-0001,Amazon
+CAT-0039,Electronics,Subcategory 39,CAT-0001,Amazon
+CAT-0040,Electronics,Subcategory 40,CAT-0001,Amazon
+CAT-0041,Electronics,Subcategory 41,CAT-0001,Amazon
+CAT-0042,Electronics,Subcategory 42,CAT-0001,Amazon
+CAT-0043,Electronics,Subcategory 43,CAT-0001,Amazon
+CAT-0044,Electronics,Subcategory 44,CAT-0001,Amazon
+CAT-0045,Electronics,Subcategory 45,CAT-0001,Amazon
+CAT-0046,Electronics,Subcategory 46,CAT-0001,Amazon
+CAT-0047,Electronics,Subcategory 47,CAT-0001,Amazon
+CAT-0048,Electronics,Subcategory 48,CAT-0001,Amazon
+CAT-0049,Electronics,Subcategory 49,CAT-0001,Amazon
+CAT-0050,Electronics,Subcategory 50,CAT-0051,Amazon
+CAT-0051,Clothing,Subcategory 1,,Amazon
+CAT-0052,Clothing,Subcategory 2,CAT-0051,Amazon
+CAT-0053,Clothing,Subcategory 3,CAT-0051,Amazon
+CAT-0054,Clothing,Subcategory 4,CAT-0051,Amazon
+CAT-0055,Clothing,Subcategory 5,CAT-0051,Amazon
+CAT-0056,Clothing,Subcategory 6,CAT-0051,Amazon
+CAT-0057,Clothing,Subcategory 7,CAT-0051,Amazon
+CAT-0058,Clothing,Subcategory 8,CAT-0051,Amazon
+CAT-0059,Clothing,Subcategory 9,CAT-0051,Amazon
+CAT-0060,Clothing,Subcategory 10,CAT-0051,Amazon
+CAT-0061,Clothing,Subcategory 11,CAT-0051,Amazon
+CAT-0062,Clothing,Subcategory 12,CAT-0051,Amazon
+CAT-0063,Clothing,Subcategory 13,CAT-0051,Amazon
+CAT-0064,Clothing,Subcategory 14,CAT-0051,Amazon
+CAT-0065,Clothing,Subcategory 15,CAT-0051,Amazon
+CAT-0066,Clothing,Subcategory 16,CAT-0051,Amazon
+CAT-0067,Clothing,Subcategory 17,CAT-0051,Amazon
+CAT-0068,Clothing,Subcategory 18,CAT-0051,Amazon
+CAT-0069,Clothing,Subcategory 19,CAT-0051,Amazon
+CAT-0070,Clothing,Subcategory 20,CAT-0051,Amazon
+CAT-0071,Clothing,Subcategory 21,CAT-0051,Amazon
+CAT-0072,Clothing,Subcategory 22,CAT-0051,Amazon
+CAT-0073,Clothing,Subcategory 23,CAT-0051,Amazon
+CAT-0074,Clothing,Subcategory 24,CAT-0051,Amazon
+CAT-0075,Clothing,Subcategory 25,CAT-0051,Amazon
+CAT-0076,Clothing,Subcategory 26,CAT-0051,Amazon
+CAT-0077,Clothing,Subcategory 27,CAT-0051,Amazon
+CAT-0078,Clothing,Subcategory 28,CAT-0051,Amazon
+CAT-0079,Clothing,Subcategory 29,CAT-0051,Amazon
+CAT-0080,Clothing,Subcategory 30,CAT-0051,Amazon
+CAT-0081,Clothing,Subcategory 31,CAT-0051,Amazon
+CAT-0082,Clothing,Subcategory 32,CAT-0051,Amazon
+CAT-0083,Clothing,Subcategory 33,CAT-0051,Amazon
+CAT-0084,Clothing,Subcategory 34,CAT-0051,Amazon
+CAT-0085,Clothing,Subcategory 35,CAT-0051,Amazon
+CAT-0086,Clothing,Subcategory 36,CAT-0051,Amazon
+CAT-0087,Clothing,Subcategory 37,CAT-0051,Amazon
+CAT-0088,Clothing,Subcategory 38,CAT-0051,Amazon
+CAT-0089,Clothing,Subcategory 39,CAT-0051,Amazon
+CAT-0090,Clothing,Subcategory 40,CAT-0051,Amazon
+CAT-0091,Clothing,Subcategory 41,CAT-0051,Amazon
+CAT-0092,Clothing,Subcategory 42,CAT-0051,Amazon
+CAT-0093,Clothing,Subcategory 43,CAT-0051,Amazon
+CAT-0094,Clothing,Subcategory 44,CAT-0051,Amazon
+CAT-0095,Clothing,Subcategory 45,CAT-0051,Amazon
+CAT-0096,Clothing,Subcategory 46,CAT-0051,Amazon
+CAT-0097,Clothing,Subcategory 47,CAT-0051,Amazon
+CAT-0098,Clothing,Subcategory 48,CAT-0051,Amazon
+CAT-0099,Clothing,Subcategory 49,CAT-0051,Amazon
+CAT-0100,Clothing,Subcategory 50,CAT-0101,Amazon
+CAT-0101,Accessories,Subcategory 1,,Amazon
+CAT-0102,Accessories,Subcategory 2,CAT-0101,Amazon
+CAT-0103,Accessories,Subcategory 3,CAT-0101,Amazon
+CAT-0104,Accessories,Subcategory 4,CAT-0101,Amazon
+CAT-0105,Accessories,Subcategory 5,CAT-0101,Amazon
+CAT-0106,Accessories,Subcategory 6,CAT-0101,Amazon
+CAT-0107,Accessories,Subcategory 7,CAT-0101,Amazon
+CAT-0108,Accessories,Subcategory 8,CAT-0101,Amazon
+CAT-0109,Accessories,Subcategory 9,CAT-0101,Amazon
+CAT-0110,Accessories,Subcategory 10,CAT-0101,Amazon
+CAT-0111,Accessories,Subcategory 11,CAT-0101,Amazon
+CAT-0112,Accessories,Subcategory 12,CAT-0101,Amazon
+CAT-0113,Accessories,Subcategory 13,CAT-0101,Amazon
+CAT-0114,Accessories,Subcategory 14,CAT-0101,Amazon
+CAT-0115,Accessories,Subcategory 15,CAT-0101,Amazon
+CAT-0116,Accessories,Subcategory 16,CAT-0101,Amazon
+CAT-0117,Accessories,Subcategory 17,CAT-0101,Amazon
+CAT-0118,Accessories,Subcategory 18,CAT-0101,Amazon
+CAT-0119,Accessories,Subcategory 19,CAT-0101,Amazon
+CAT-0120,Accessories,Subcategory 20,CAT-0101,Amazon
+CAT-0121,Accessories,Subcategory 21,CAT-0101,Amazon
+CAT-0122,Accessories,Subcategory 22,CAT-0101,Amazon
+CAT-0123,Accessories,Subcategory 23,CAT-0101,Amazon
+CAT-0124,Accessories,Subcategory 24,CAT-0101,Amazon
+CAT-0125,Accessories,Subcategory 25,CAT-0101,Amazon
+CAT-0126,Accessories,Subcategory 26,CAT-0101,Amazon
+CAT-0127,Accessories,Subcategory 27,CAT-0101,Amazon
+CAT-0128,Accessories,Subcategory 28,CAT-0101,Amazon
+CAT-0129,Accessories,Subcategory 29,CAT-0101,Amazon
+CAT-0130,Accessories,Subcategory 30,CAT-0101,Amazon
+CAT-0131,Accessories,Subcategory 31,CAT-0101,Amazon
+CAT-0132,Accessories,Subcategory 32,CAT-0101,Amazon
+CAT-0133,Accessories,Subcategory 33,CAT-0101,Amazon
+CAT-0134,Accessories,Subcategory 34,CAT-0101,Amazon
+CAT-0135,Accessories,Subcategory 35,CAT-0101,Amazon
+CAT-0136,Accessories,Subcategory 36,CAT-0101,Amazon
+CAT-0137,Accessories,Subcategory 37,CAT-0101,Amazon
+CAT-0138,Accessories,Subcategory 38,CAT-0101,Amazon
+CAT-0139,Accessories,Subcategory 39,CAT-0101,Amazon
+CAT-0140,Accessories,Subcategory 40,CAT-0101,Amazon
+CAT-0141,Accessories,Subcategory 41,CAT-0101,Amazon
+CAT-0142,Accessories,Subcategory 42,CAT-0101,Amazon
+CAT-0143,Accessories,Subcategory 43,CAT-0101,Amazon
+CAT-0144,Accessories,Subcategory 44,CAT-0101,Amazon
+CAT-0145,Accessories,Subcategory 45,CAT-0101,Amazon
+CAT-0146,Accessories,Subcategory 46,CAT-0101,Amazon
+CAT-0147,Accessories,Subcategory 47,CAT-0101,Amazon
+CAT-0148,Accessories,Subcategory 48,CAT-0101,Amazon
+CAT-0149,Accessories,Subcategory 49,CAT-0101,Amazon
+CAT-0150,Accessories,Subcategory 50,CAT-0151,Amazon
+CAT-0151,Home,Subcategory 1,,Amazon
+CAT-0152,Home,Subcategory 2,CAT-0151,Amazon
+CAT-0153,Home,Subcategory 3,CAT-0151,Amazon
+CAT-0154,Home,Subcategory 4,CAT-0151,Amazon
+CAT-0155,Home,Subcategory 5,CAT-0151,Amazon
+CAT-0156,Home,Subcategory 6,CAT-0151,Amazon
+CAT-0157,Home,Subcategory 7,CAT-0151,Amazon
+CAT-0158,Home,Subcategory 8,CAT-0151,Amazon
+CAT-0159,Home,Subcategory 9,CAT-0151,Amazon
+CAT-0160,Home,Subcategory 10,CAT-0151,Amazon
+CAT-0161,Home,Subcategory 11,CAT-0151,Amazon
+CAT-0162,Home,Subcategory 12,CAT-0151,Amazon
+CAT-0163,Home,Subcategory 13,CAT-0151,Amazon
+CAT-0164,Home,Subcategory 14,CAT-0151,Amazon
+CAT-0165,Home,Subcategory 15,CAT-0151,Amazon
+CAT-0166,Home,Subcategory 16,CAT-0151,Amazon
+CAT-0167,Home,Subcategory 17,CAT-0151,Amazon
+CAT-0168,Home,Subcategory 18,CAT-0151,Amazon
+CAT-0169,Home,Subcategory 19,CAT-0151,Amazon
+CAT-0170,Home,Subcategory 20,CAT-0151,Amazon
+CAT-0171,Home,Subcategory 21,CAT-0151,Amazon
+CAT-0172,Home,Subcategory 22,CAT-0151,Amazon
+CAT-0173,Home,Subcategory 23,CAT-0151,Amazon
+CAT-0174,Home,Subcategory 24,CAT-0151,Amazon
+CAT-0175,Home,Subcategory 25,CAT-0151,Amazon
+CAT-0176,Home,Subcategory 26,CAT-0151,Amazon
+CAT-0177,Home,Subcategory 27,CAT-0151,Amazon
+CAT-0178,Home,Subcategory 28,CAT-0151,Amazon
+CAT-0179,Home,Subcategory 29,CAT-0151,Amazon
+CAT-0180,Home,Subcategory 30,CAT-0151,Amazon
+CAT-0181,Home,Subcategory 31,CAT-0151,Amazon
+CAT-0182,Home,Subcategory 32,CAT-0151,Amazon
+CAT-0183,Home,Subcategory 33,CAT-0151,Amazon
+CAT-0184,Home,Subcategory 34,CAT-0151,Amazon
+CAT-0185,Home,Subcategory 35,CAT-0151,Amazon
+CAT-0186,Home,Subcategory 36,CAT-0151,Amazon
+CAT-0187,Home,Subcategory 37,CAT-0151,Amazon
+CAT-0188,Home,Subcategory 38,CAT-0151,Amazon
+CAT-0189,Home,Subcategory 39,CAT-0151,Amazon
+CAT-0190,Home,Subcategory 40,CAT-0151,Amazon
+CAT-0191,Home,Subcategory 41,CAT-0151,Amazon
+CAT-0192,Home,Subcategory 42,CAT-0151,Amazon
+CAT-0193,Home,Subcategory 43,CAT-0151,Amazon
+CAT-0194,Home,Subcategory 44,CAT-0151,Amazon
+CAT-0195,Home,Subcategory 45,CAT-0151,Amazon
+CAT-0196,Home,Subcategory 46,CAT-0151,Amazon
+CAT-0197,Home,Subcategory 47,CAT-0151,Amazon
+CAT-0198,Home,Subcategory 48,CAT-0151,Amazon
+CAT-0199,Home,Subcategory 49,CAT-0151,Amazon
+CAT-0200,Home,Subcategory 50,CAT-0201,Amazon
+CAT-0201,Beauty,Subcategory 1,,Amazon
+CAT-0202,Beauty,Subcategory 2,CAT-0201,Amazon
+CAT-0203,Beauty,Subcategory 3,CAT-0201,Amazon
+CAT-0204,Beauty,Subcategory 4,CAT-0201,Amazon
+CAT-0205,Beauty,Subcategory 5,CAT-0201,Amazon
+CAT-0206,Beauty,Subcategory 6,CAT-0201,Amazon
+CAT-0207,Beauty,Subcategory 7,CAT-0201,Amazon
+CAT-0208,Beauty,Subcategory 8,CAT-0201,Amazon
+CAT-0209,Beauty,Subcategory 9,CAT-0201,Amazon
+CAT-0210,Beauty,Subcategory 10,CAT-0201,Amazon
+CAT-0211,Beauty,Subcategory 11,CAT-0201,Amazon
+CAT-0212,Beauty,Subcategory 12,CAT-0201,Amazon
+CAT-0213,Beauty,Subcategory 13,CAT-0201,Amazon
+CAT-0214,Beauty,Subcategory 14,CAT-0201,Amazon
+CAT-0215,Beauty,Subcategory 15,CAT-0201,Amazon
+CAT-0216,Beauty,Subcategory 16,CAT-0201,Amazon
+CAT-0217,Beauty,Subcategory 17,CAT-0201,Amazon
+CAT-0218,Beauty,Subcategory 18,CAT-0201,Amazon
+CAT-0219,Beauty,Subcategory 19,CAT-0201,Amazon
+CAT-0220,Beauty,Subcategory 20,CAT-0201,Amazon
+CAT-0221,Beauty,Subcategory 21,CAT-0201,Amazon
+CAT-0222,Beauty,Subcategory 22,CAT-0201,Amazon
+CAT-0223,Beauty,Subcategory 23,CAT-0201,Amazon
+CAT-0224,Beauty,Subcategory 24,CAT-0201,Amazon
+CAT-0225,Beauty,Subcategory 25,CAT-0201,Amazon
+CAT-0226,Beauty,Subcategory 26,CAT-0201,Amazon
+CAT-0227,Beauty,Subcategory 27,CAT-0201,Amazon
+CAT-0228,Beauty,Subcategory 28,CAT-0201,Amazon
+CAT-0229,Beauty,Subcategory 29,CAT-0201,Amazon
+CAT-0230,Beauty,Subcategory 30,CAT-0201,Amazon
+CAT-0231,Beauty,Subcategory 31,CAT-0201,Amazon
+CAT-0232,Beauty,Subcategory 32,CAT-0201,Amazon
+CAT-0233,Beauty,Subcategory 33,CAT-0201,Amazon
+CAT-0234,Beauty,Subcategory 34,CAT-0201,Amazon
+CAT-0235,Beauty,Subcategory 35,CAT-0201,Amazon
+CAT-0236,Beauty,Subcategory 36,CAT-0201,Amazon
+CAT-0237,Beauty,Subcategory 37,CAT-0201,Amazon
+CAT-0238,Beauty,Subcategory 38,CAT-0201,Amazon
+CAT-0239,Beauty,Subcategory 39,CAT-0201,Amazon
+CAT-0240,Beauty,Subcategory 40,CAT-0201,Amazon
+CAT-0241,Beauty,Subcategory 41,CAT-0201,Amazon
+CAT-0242,Beauty,Subcategory 42,CAT-0201,Amazon
+CAT-0243,Beauty,Subcategory 43,CAT-0201,Amazon
+CAT-0244,Beauty,Subcategory 44,CAT-0201,Amazon
+CAT-0245,Beauty,Subcategory 45,CAT-0201,Amazon
+CAT-0246,Beauty,Subcategory 46,CAT-0201,Amazon
+CAT-0247,Beauty,Subcategory 47,CAT-0201,Amazon
+CAT-0248,Beauty,Subcategory 48,CAT-0201,Amazon
+CAT-0249,Beauty,Subcategory 49,CAT-0201,Amazon
+CAT-0250,Beauty,Subcategory 50,CAT-0251,Amazon
+CAT-0251,Sports,Subcategory 1,,Amazon
+CAT-0252,Sports,Subcategory 2,CAT-0251,Amazon
+CAT-0253,Sports,Subcategory 3,CAT-0251,Amazon
+CAT-0254,Sports,Subcategory 4,CAT-0251,Amazon
+CAT-0255,Sports,Subcategory 5,CAT-0251,Amazon
+CAT-0256,Sports,Subcategory 6,CAT-0251,Amazon
+CAT-0257,Sports,Subcategory 7,CAT-0251,Amazon
+CAT-0258,Sports,Subcategory 8,CAT-0251,Amazon
+CAT-0259,Sports,Subcategory 9,CAT-0251,Amazon
+CAT-0260,Sports,Subcategory 10,CAT-0251,Amazon
+CAT-0261,Sports,Subcategory 11,CAT-0251,Amazon
+CAT-0262,Sports,Subcategory 12,CAT-0251,Amazon
+CAT-0263,Sports,Subcategory 13,CAT-0251,Amazon
+CAT-0264,Sports,Subcategory 14,CAT-0251,Amazon
+CAT-0265,Sports,Subcategory 15,CAT-0251,Amazon
+CAT-0266,Sports,Subcategory 16,CAT-0251,Amazon
+CAT-0267,Sports,Subcategory 17,CAT-0251,Amazon
+CAT-0268,Sports,Subcategory 18,CAT-0251,Amazon
+CAT-0269,Sports,Subcategory 19,CAT-0251,Amazon
+CAT-0270,Sports,Subcategory 20,CAT-0251,Amazon
+CAT-0271,Sports,Subcategory 21,CAT-0251,Amazon
+CAT-0272,Sports,Subcategory 22,CAT-0251,Amazon
+CAT-0273,Sports,Subcategory 23,CAT-0251,Amazon
+CAT-0274,Sports,Subcategory 24,CAT-0251,Amazon
+CAT-0275,Sports,Subcategory 25,CAT-0251,Amazon
+CAT-0276,Sports,Subcategory 26,CAT-0251,Amazon
+CAT-0277,Sports,Subcategory 27,CAT-0251,Amazon
+CAT-0278,Sports,Subcategory 28,CAT-0251,Amazon
+CAT-0279,Sports,Subcategory 29,CAT-0251,Amazon
+CAT-0280,Sports,Subcategory 30,CAT-0251,Amazon
+CAT-0281,Sports,Subcategory 31,CAT-0251,Amazon
+CAT-0282,Sports,Subcategory 32,CAT-0251,Amazon
+CAT-0283,Sports,Subcategory 33,CAT-0251,Amazon
+CAT-0284,Sports,Subcategory 34,CAT-0251,Amazon
+CAT-0285,Sports,Subcategory 35,CAT-0251,Amazon
+CAT-0286,Sports,Subcategory 36,CAT-0251,Amazon
+CAT-0287,Sports,Subcategory 37,CAT-0251,Amazon
+CAT-0288,Sports,Subcategory 38,CAT-0251,Amazon
+CAT-0289,Sports,Subcategory 39,CAT-0251,Amazon
+CAT-0290,Sports,Subcategory 40,CAT-0251,Amazon
+CAT-0291,Sports,Subcategory 41,CAT-0251,Amazon
+CAT-0292,Sports,Subcategory 42,CAT-0251,Amazon
+CAT-0293,Sports,Subcategory 43,CAT-0251,Amazon
+CAT-0294,Sports,Subcategory 44,CAT-0251,Amazon
+CAT-0295,Sports,Subcategory 45,CAT-0251,Amazon
+CAT-0296,Sports,Subcategory 46,CAT-0251,Amazon
+CAT-0297,Sports,Subcategory 47,CAT-0251,Amazon
+CAT-0298,Sports,Subcategory 48,CAT-0251,Amazon
+CAT-0299,Sports,Subcategory 49,CAT-0251,Amazon
+CAT-0300,Sports,Subcategory 50,CAT-0301,Amazon
+CAT-0301,Books,Subcategory 1,,Amazon
+CAT-0302,Books,Subcategory 2,CAT-0301,Amazon
+CAT-0303,Books,Subcategory 3,CAT-0301,Amazon
+CAT-0304,Books,Subcategory 4,CAT-0301,Amazon
+CAT-0305,Books,Subcategory 5,CAT-0301,Amazon
+CAT-0306,Books,Subcategory 6,CAT-0301,Amazon
+CAT-0307,Books,Subcategory 7,CAT-0301,Amazon
+CAT-0308,Books,Subcategory 8,CAT-0301,Amazon
+CAT-0309,Books,Subcategory 9,CAT-0301,Amazon
+CAT-0310,Books,Subcategory 10,CAT-0301,Amazon
+CAT-0311,Books,Subcategory 11,CAT-0301,Amazon
+CAT-0312,Books,Subcategory 12,CAT-0301,Amazon
+CAT-0313,Books,Subcategory 13,CAT-0301,Amazon
+CAT-0314,Books,Subcategory 14,CAT-0301,Amazon
+CAT-0315,Books,Subcategory 15,CAT-0301,Amazon
+CAT-0316,Books,Subcategory 16,CAT-0301,Amazon
+CAT-0317,Books,Subcategory 17,CAT-0301,Amazon
+CAT-0318,Books,Subcategory 18,CAT-0301,Amazon
+CAT-0319,Books,Subcategory 19,CAT-0301,Amazon
+CAT-0320,Books,Subcategory 20,CAT-0301,Amazon
+CAT-0321,Books,Subcategory 21,CAT-0301,Amazon
+CAT-0322,Books,Subcategory 22,CAT-0301,Amazon
+CAT-0323,Books,Subcategory 23,CAT-0301,Amazon
+CAT-0324,Books,Subcategory 24,CAT-0301,Amazon
+CAT-0325,Books,Subcategory 25,CAT-0301,Amazon
+CAT-0326,Books,Subcategory 26,CAT-0301,Amazon
+CAT-0327,Books,Subcategory 27,CAT-0301,Amazon
+CAT-0328,Books,Subcategory 28,CAT-0301,Amazon
+CAT-0329,Books,Subcategory 29,CAT-0301,Amazon
+CAT-0330,Books,Subcategory 30,CAT-0301,Amazon
+CAT-0331,Books,Subcategory 31,CAT-0301,Amazon
+CAT-0332,Books,Subcategory 32,CAT-0301,Amazon
+CAT-0333,Books,Subcategory 33,CAT-0301,Amazon
+CAT-0334,Books,Subcategory 34,CAT-0301,Amazon
+CAT-0335,Books,Subcategory 35,CAT-0301,Amazon
+CAT-0336,Books,Subcategory 36,CAT-0301,Amazon
+CAT-0337,Books,Subcategory 37,CAT-0301,Amazon
+CAT-0338,Books,Subcategory 38,CAT-0301,Amazon
+CAT-0339,Books,Subcategory 39,CAT-0301,Amazon
+CAT-0340,Books,Subcategory 40,CAT-0301,Amazon
+CAT-0341,Books,Subcategory 41,CAT-0301,Amazon
+CAT-0342,Books,Subcategory 42,CAT-0301,Amazon
+CAT-0343,Books,Subcategory 43,CAT-0301,Amazon
+CAT-0344,Books,Subcategory 44,CAT-0301,Amazon
+CAT-0345,Books,Subcategory 45,CAT-0301,Amazon
+CAT-0346,Books,Subcategory 46,CAT-0301,Amazon
+CAT-0347,Books,Subcategory 47,CAT-0301,Amazon
+CAT-0348,Books,Subcategory 48,CAT-0301,Amazon
+CAT-0349,Books,Subcategory 49,CAT-0301,Amazon
+CAT-0350,Books,Subcategory 50,CAT-0351,Amazon
+CAT-0351,Toys,Subcategory 1,,Amazon
+CAT-0352,Toys,Subcategory 2,CAT-0351,Amazon
+CAT-0353,Toys,Subcategory 3,CAT-0351,Amazon
+CAT-0354,Toys,Subcategory 4,CAT-0351,Amazon
+CAT-0355,Toys,Subcategory 5,CAT-0351,Amazon
+CAT-0356,Toys,Subcategory 6,CAT-0351,Amazon
+CAT-0357,Toys,Subcategory 7,CAT-0351,Amazon
+CAT-0358,Toys,Subcategory 8,CAT-0351,Amazon
+CAT-0359,Toys,Subcategory 9,CAT-0351,Amazon
+CAT-0360,Toys,Subcategory 10,CAT-0351,Amazon
+CAT-0361,Toys,Subcategory 11,CAT-0351,Amazon
+CAT-0362,Toys,Subcategory 12,CAT-0351,Amazon
+CAT-0363,Toys,Subcategory 13,CAT-0351,Amazon
+CAT-0364,Toys,Subcategory 14,CAT-0351,Amazon
+CAT-0365,Toys,Subcategory 15,CAT-0351,Amazon
+CAT-0366,Toys,Subcategory 16,CAT-0351,Amazon
+CAT-0367,Toys,Subcategory 17,CAT-0351,Amazon
+CAT-0368,Toys,Subcategory 18,CAT-0351,Amazon
+CAT-0369,Toys,Subcategory 19,CAT-0351,Amazon
+CAT-0370,Toys,Subcategory 20,CAT-0351,Amazon
+CAT-0371,Toys,Subcategory 21,CAT-0351,Amazon
+CAT-0372,Toys,Subcategory 22,CAT-0351,Amazon
+CAT-0373,Toys,Subcategory 23,CAT-0351,Amazon
+CAT-0374,Toys,Subcategory 24,CAT-0351,Amazon
+CAT-0375,Toys,Subcategory 25,CAT-0351,Amazon
+CAT-0376,Toys,Subcategory 26,CAT-0351,Amazon
+CAT-0377,Toys,Subcategory 27,CAT-0351,Amazon
+CAT-0378,Toys,Subcategory 28,CAT-0351,Amazon
+CAT-0379,Toys,Subcategory 29,CAT-0351,Amazon
+CAT-0380,Toys,Subcategory 30,CAT-0351,Amazon
+CAT-0381,Toys,Subcategory 31,CAT-0351,Amazon
+CAT-0382,Toys,Subcategory 32,CAT-0351,Amazon
+CAT-0383,Toys,Subcategory 33,CAT-0351,Amazon
+CAT-0384,Toys,Subcategory 34,CAT-0351,Amazon
+CAT-0385,Toys,Subcategory 35,CAT-0351,Amazon
+CAT-0386,Toys,Subcategory 36,CAT-0351,Amazon
+CAT-0387,Toys,Subcategory 37,CAT-0351,Amazon
+CAT-0388,Toys,Subcategory 38,CAT-0351,Amazon
+CAT-0389,Toys,Subcategory 39,CAT-0351,Amazon
+CAT-0390,Toys,Subcategory 40,CAT-0351,Amazon
+CAT-0391,Toys,Subcategory 41,CAT-0351,Amazon
+CAT-0392,Toys,Subcategory 42,CAT-0351,Amazon
+CAT-0393,Toys,Subcategory 43,CAT-0351,Amazon
+CAT-0394,Toys,Subcategory 44,CAT-0351,Amazon
+CAT-0395,Toys,Subcategory 45,CAT-0351,Amazon
+CAT-0396,Toys,Subcategory 46,CAT-0351,Amazon
+CAT-0397,Toys,Subcategory 47,CAT-0351,Amazon
+CAT-0398,Toys,Subcategory 48,CAT-0351,Amazon
+CAT-0399,Toys,Subcategory 49,CAT-0351,Amazon
+CAT-0400,Toys,Subcategory 50,CAT-0401,Amazon
+CAT-0401,Automotive,Subcategory 1,,Amazon
+CAT-0402,Automotive,Subcategory 2,CAT-0401,Amazon
+CAT-0403,Automotive,Subcategory 3,CAT-0401,Amazon
+CAT-0404,Automotive,Subcategory 4,CAT-0401,Amazon
+CAT-0405,Automotive,Subcategory 5,CAT-0401,Amazon
+CAT-0406,Automotive,Subcategory 6,CAT-0401,Amazon
+CAT-0407,Automotive,Subcategory 7,CAT-0401,Amazon
+CAT-0408,Automotive,Subcategory 8,CAT-0401,Amazon
+CAT-0409,Automotive,Subcategory 9,CAT-0401,Amazon
+CAT-0410,Automotive,Subcategory 10,CAT-0401,Amazon
+CAT-0411,Automotive,Subcategory 11,CAT-0401,Amazon
+CAT-0412,Automotive,Subcategory 12,CAT-0401,Amazon
+CAT-0413,Automotive,Subcategory 13,CAT-0401,Amazon
+CAT-0414,Automotive,Subcategory 14,CAT-0401,Amazon
+CAT-0415,Automotive,Subcategory 15,CAT-0401,Amazon
+CAT-0416,Automotive,Subcategory 16,CAT-0401,Amazon
+CAT-0417,Automotive,Subcategory 17,CAT-0401,Amazon
+CAT-0418,Automotive,Subcategory 18,CAT-0401,Amazon
+CAT-0419,Automotive,Subcategory 19,CAT-0401,Amazon
+CAT-0420,Automotive,Subcategory 20,CAT-0401,Amazon
+CAT-0421,Automotive,Subcategory 21,CAT-0401,Amazon
+CAT-0422,Automotive,Subcategory 22,CAT-0401,Amazon
+CAT-0423,Automotive,Subcategory 23,CAT-0401,Amazon
+CAT-0424,Automotive,Subcategory 24,CAT-0401,Amazon
+CAT-0425,Automotive,Subcategory 25,CAT-0401,Amazon
+CAT-0426,Automotive,Subcategory 26,CAT-0401,Amazon
+CAT-0427,Automotive,Subcategory 27,CAT-0401,Amazon
+CAT-0428,Automotive,Subcategory 28,CAT-0401,Amazon
+CAT-0429,Automotive,Subcategory 29,CAT-0401,Amazon
+CAT-0430,Automotive,Subcategory 30,CAT-0401,Amazon
+CAT-0431,Automotive,Subcategory 31,CAT-0401,Amazon
+CAT-0432,Automotive,Subcategory 32,CAT-0401,Amazon
+CAT-0433,Automotive,Subcategory 33,CAT-0401,Amazon
+CAT-0434,Automotive,Subcategory 34,CAT-0401,Amazon
+CAT-0435,Automotive,Subcategory 35,CAT-0401,Amazon
+CAT-0436,Automotive,Subcategory 36,CAT-0401,Amazon
+CAT-0437,Automotive,Subcategory 37,CAT-0401,Amazon
+CAT-0438,Automotive,Subcategory 38,CAT-0401,Amazon
+CAT-0439,Automotive,Subcategory 39,CAT-0401,Amazon
+CAT-0440,Automotive,Subcategory 40,CAT-0401,Amazon
+CAT-0441,Automotive,Subcategory 41,CAT-0401,Amazon
+CAT-0442,Automotive,Subcategory 42,CAT-0401,Amazon
+CAT-0443,Automotive,Subcategory 43,CAT-0401,Amazon
+CAT-0444,Automotive,Subcategory 44,CAT-0401,Amazon
+CAT-0445,Automotive,Subcategory 45,CAT-0401,Amazon
+CAT-0446,Automotive,Subcategory 46,CAT-0401,Amazon
+CAT-0447,Automotive,Subcategory 47,CAT-0401,Amazon
+CAT-0448,Automotive,Subcategory 48,CAT-0401,Amazon
+CAT-0449,Automotive,Subcategory 49,CAT-0401,Amazon
+CAT-0450,Automotive,Subcategory 50,CAT-0451,Amazon
+CAT-0451,Groceries,Subcategory 1,,Amazon
+CAT-0452,Groceries,Subcategory 2,CAT-0451,Amazon
+CAT-0453,Groceries,Subcategory 3,CAT-0451,Amazon
+CAT-0454,Groceries,Subcategory 4,CAT-0451,Amazon
+CAT-0455,Groceries,Subcategory 5,CAT-0451,Amazon
+CAT-0456,Groceries,Subcategory 6,CAT-0451,Amazon
+CAT-0457,Groceries,Subcategory 7,CAT-0451,Amazon
+CAT-0458,Groceries,Subcategory 8,CAT-0451,Amazon
+CAT-0459,Groceries,Subcategory 9,CAT-0451,Amazon
+CAT-0460,Groceries,Subcategory 10,CAT-0451,Amazon
+CAT-0461,Groceries,Subcategory 11,CAT-0451,Amazon
+CAT-0462,Groceries,Subcategory 12,CAT-0451,Amazon
+CAT-0463,Groceries,Subcategory 13,CAT-0451,Amazon
+CAT-0464,Groceries,Subcategory 14,CAT-0451,Amazon
+CAT-0465,Groceries,Subcategory 15,CAT-0451,Amazon
+CAT-0466,Groceries,Subcategory 16,CAT-0451,Amazon
+CAT-0467,Groceries,Subcategory 17,CAT-0451,Amazon
+CAT-0468,Groceries,Subcategory 18,CAT-0451,Amazon
+CAT-0469,Groceries,Subcategory 19,CAT-0451,Amazon
+CAT-0470,Groceries,Subcategory 20,CAT-0451,Amazon
+CAT-0471,Groceries,Subcategory 21,CAT-0451,Amazon
+CAT-0472,Groceries,Subcategory 22,CAT-0451,Amazon
+CAT-0473,Groceries,Subcategory 23,CAT-0451,Amazon
+CAT-0474,Groceries,Subcategory 24,CAT-0451,Amazon
+CAT-0475,Groceries,Subcategory 25,CAT-0451,Amazon
+CAT-0476,Groceries,Subcategory 26,CAT-0451,Amazon
+CAT-0477,Groceries,Subcategory 27,CAT-0451,Amazon
+CAT-0478,Groceries,Subcategory 28,CAT-0451,Amazon
+CAT-0479,Groceries,Subcategory 29,CAT-0451,Amazon
+CAT-0480,Groceries,Subcategory 30,CAT-0451,Amazon
+CAT-0481,Groceries,Subcategory 31,CAT-0451,Amazon
+CAT-0482,Groceries,Subcategory 32,CAT-0451,Amazon
+CAT-0483,Groceries,Subcategory 33,CAT-0451,Amazon
+CAT-0484,Groceries,Subcategory 34,CAT-0451,Amazon
+CAT-0485,Groceries,Subcategory 35,CAT-0451,Amazon
+CAT-0486,Groceries,Subcategory 36,CAT-0451,Amazon
+CAT-0487,Groceries,Subcategory 37,CAT-0451,Amazon
+CAT-0488,Groceries,Subcategory 38,CAT-0451,Amazon
+CAT-0489,Groceries,Subcategory 39,CAT-0451,Amazon
+CAT-0490,Groceries,Subcategory 40,CAT-0451,Amazon
+CAT-0491,Groceries,Subcategory 41,CAT-0451,Amazon
+CAT-0492,Groceries,Subcategory 42,CAT-0451,Amazon
+CAT-0493,Groceries,Subcategory 43,CAT-0451,Amazon
+CAT-0494,Groceries,Subcategory 44,CAT-0451,Amazon
+CAT-0495,Groceries,Subcategory 45,CAT-0451,Amazon
+CAT-0496,Groceries,Subcategory 46,CAT-0451,Amazon
+CAT-0497,Groceries,Subcategory 47,CAT-0451,Amazon
+CAT-0498,Groceries,Subcategory 48,CAT-0451,Amazon
+CAT-0499,Groceries,Subcategory 49,CAT-0451,Amazon
+CAT-0500,Groceries,Subcategory 50,CAT-0501,Amazon
+FCAT-0001,Mobiles & Electronics,Subcategory 1,,Flipkart
+FCAT-0002,Mobiles & Electronics,Subcategory 2,FCAT-0001,Flipkart
+FCAT-0003,Mobiles & Electronics,Subcategory 3,FCAT-0001,Flipkart
+FCAT-0004,Mobiles & Electronics,Subcategory 4,FCAT-0001,Flipkart
+FCAT-0005,Mobiles & Electronics,Subcategory 5,FCAT-0001,Flipkart
+FCAT-0006,Mobiles & Electronics,Subcategory 6,FCAT-0001,Flipkart
+FCAT-0007,Mobiles & Electronics,Subcategory 7,FCAT-0001,Flipkart
+FCAT-0008,Mobiles & Electronics,Subcategory 8,FCAT-0001,Flipkart
+FCAT-0009,Mobiles & Electronics,Subcategory 9,FCAT-0001,Flipkart
+FCAT-0010,Mobiles & Electronics,Subcategory 10,FCAT-0001,Flipkart
+FCAT-0011,Mobiles & Electronics,Subcategory 11,FCAT-0001,Flipkart
+FCAT-0012,Mobiles & Electronics,Subcategory 12,FCAT-0001,Flipkart
+FCAT-0013,Mobiles & Electronics,Subcategory 13,FCAT-0001,Flipkart
+FCAT-0014,Mobiles & Electronics,Subcategory 14,FCAT-0001,Flipkart
+FCAT-0015,Mobiles & Electronics,Subcategory 15,FCAT-0001,Flipkart
+FCAT-0016,Mobiles & Electronics,Subcategory 16,FCAT-0001,Flipkart
+FCAT-0017,Mobiles & Electronics,Subcategory 17,FCAT-0001,Flipkart
+FCAT-0018,Mobiles & Electronics,Subcategory 18,FCAT-0001,Flipkart
+FCAT-0019,Mobiles & Electronics,Subcategory 19,FCAT-0001,Flipkart
+FCAT-0020,Mobiles & Electronics,Subcategory 20,FCAT-0001,Flipkart
+FCAT-0021,Mobiles & Electronics,Subcategory 21,FCAT-0001,Flipkart
+FCAT-0022,Mobiles & Electronics,Subcategory 22,FCAT-0001,Flipkart
+FCAT-0023,Mobiles & Electronics,Subcategory 23,FCAT-0001,Flipkart
+FCAT-0024,Mobiles & Electronics,Subcategory 24,FCAT-0001,Flipkart
+FCAT-0025,Mobiles & Electronics,Subcategory 25,FCAT-0001,Flipkart
+FCAT-0026,Mobiles & Electronics,Subcategory 26,FCAT-0001,Flipkart
+FCAT-0027,Mobiles & Electronics,Subcategory 27,FCAT-0001,Flipkart
+FCAT-0028,Mobiles & Electronics,Subcategory 28,FCAT-0001,Flipkart
+FCAT-0029,Mobiles & Electronics,Subcategory 29,FCAT-0001,Flipkart
+FCAT-0030,Mobiles & Electronics,Subcategory 30,FCAT-0001,Flipkart
+FCAT-0031,Mobiles & Electronics,Subcategory 31,FCAT-0001,Flipkart
+FCAT-0032,Mobiles & Electronics,Subcategory 32,FCAT-0001,Flipkart
+FCAT-0033,Mobiles & Electronics,Subcategory 33,FCAT-0001,Flipkart
+FCAT-0034,Mobiles & Electronics,Subcategory 34,FCAT-0001,Flipkart
+FCAT-0035,Mobiles & Electronics,Subcategory 35,FCAT-0001,Flipkart
+FCAT-0036,Mobiles & Electronics,Subcategory 36,FCAT-0001,Flipkart
+FCAT-0037,Mobiles & Electronics,Subcategory 37,FCAT-0001,Flipkart
+FCAT-0038,Mobiles & Electronics,Subcategory 38,FCAT-0001,Flipkart
+FCAT-0039,Mobiles & Electronics,Subcategory 39,FCAT-0001,Flipkart
+FCAT-0040,Mobiles & Electronics,Subcategory 40,FCAT-0001,Flipkart
+FCAT-0041,Mobiles & Electronics,Subcategory 41,FCAT-0001,Flipkart
+FCAT-0042,Mobiles & Electronics,Subcategory 42,FCAT-0001,Flipkart
+FCAT-0043,Mobiles & Electronics,Subcategory 43,FCAT-0001,Flipkart
+FCAT-0044,Mobiles & Electronics,Subcategory 44,FCAT-0001,Flipkart
+FCAT-0045,Mobiles & Electronics,Subcategory 45,FCAT-0001,Flipkart
+FCAT-0046,Mobiles & Electronics,Subcategory 46,FCAT-0001,Flipkart
+FCAT-0047,Mobiles & Electronics,Subcategory 47,FCAT-0001,Flipkart
+FCAT-0048,Mobiles & Electronics,Subcategory 48,FCAT-0001,Flipkart
+FCAT-0049,Mobiles & Electronics,Subcategory 49,FCAT-0001,Flipkart
+FCAT-0050,Mobiles & Electronics,Subcategory 50,FCAT-0051,Flipkart
+FCAT-0051,Fashion,Subcategory 1,,Flipkart
+FCAT-0052,Fashion,Subcategory 2,FCAT-0051,Flipkart
+FCAT-0053,Fashion,Subcategory 3,FCAT-0051,Flipkart
+FCAT-0054,Fashion,Subcategory 4,FCAT-0051,Flipkart
+FCAT-0055,Fashion,Subcategory 5,FCAT-0051,Flipkart
+FCAT-0056,Fashion,Subcategory 6,FCAT-0051,Flipkart
+FCAT-0057,Fashion,Subcategory 7,FCAT-0051,Flipkart
+FCAT-0058,Fashion,Subcategory 8,FCAT-0051,Flipkart
+FCAT-0059,Fashion,Subcategory 9,FCAT-0051,Flipkart
+FCAT-0060,Fashion,Subcategory 10,FCAT-0051,Flipkart
+FCAT-0061,Fashion,Subcategory 11,FCAT-0051,Flipkart
+FCAT-0062,Fashion,Subcategory 12,FCAT-0051,Flipkart
+FCAT-0063,Fashion,Subcategory 13,FCAT-0051,Flipkart
+FCAT-0064,Fashion,Subcategory 14,FCAT-0051,Flipkart
+FCAT-0065,Fashion,Subcategory 15,FCAT-0051,Flipkart
+FCAT-0066,Fashion,Subcategory 16,FCAT-0051,Flipkart
+FCAT-0067,Fashion,Subcategory 17,FCAT-0051,Flipkart
+FCAT-0068,Fashion,Subcategory 18,FCAT-0051,Flipkart
+FCAT-0069,Fashion,Subcategory 19,FCAT-0051,Flipkart
+FCAT-0070,Fashion,Subcategory 20,FCAT-0051,Flipkart
+FCAT-0071,Fashion,Subcategory 21,FCAT-0051,Flipkart
+FCAT-0072,Fashion,Subcategory 22,FCAT-0051,Flipkart
+FCAT-0073,Fashion,Subcategory 23,FCAT-0051,Flipkart
+FCAT-0074,Fashion,Subcategory 24,FCAT-0051,Flipkart
+FCAT-0075,Fashion,Subcategory 25,FCAT-0051,Flipkart
+FCAT-0076,Fashion,Subcategory 26,FCAT-0051,Flipkart
+FCAT-0077,Fashion,Subcategory 27,FCAT-0051,Flipkart
+FCAT-0078,Fashion,Subcategory 28,FCAT-0051,Flipkart
+FCAT-0079,Fashion,Subcategory 29,FCAT-0051,Flipkart
+FCAT-0080,Fashion,Subcategory 30,FCAT-0051,Flipkart
+FCAT-0081,Fashion,Subcategory 31,FCAT-0051,Flipkart
+FCAT-0082,Fashion,Subcategory 32,FCAT-0051,Flipkart
+FCAT-0083,Fashion,Subcategory 33,FCAT-0051,Flipkart
+FCAT-0084,Fashion,Subcategory 34,FCAT-0051,Flipkart
+FCAT-0085,Fashion,Subcategory 35,FCAT-0051,Flipkart
+FCAT-0086,Fashion,Subcategory 36,FCAT-0051,Flipkart
+FCAT-0087,Fashion,Subcategory 37,FCAT-0051,Flipkart
+FCAT-0088,Fashion,Subcategory 38,FCAT-0051,Flipkart
+FCAT-0089,Fashion,Subcategory 39,FCAT-0051,Flipkart
+FCAT-0090,Fashion,Subcategory 40,FCAT-0051,Flipkart
+FCAT-0091,Fashion,Subcategory 41,FCAT-0051,Flipkart
+FCAT-0092,Fashion,Subcategory 42,FCAT-0051,Flipkart
+FCAT-0093,Fashion,Subcategory 43,FCAT-0051,Flipkart
+FCAT-0094,Fashion,Subcategory 44,FCAT-0051,Flipkart
+FCAT-0095,Fashion,Subcategory 45,FCAT-0051,Flipkart
+FCAT-0096,Fashion,Subcategory 46,FCAT-0051,Flipkart
+FCAT-0097,Fashion,Subcategory 47,FCAT-0051,Flipkart
+FCAT-0098,Fashion,Subcategory 48,FCAT-0051,Flipkart
+FCAT-0099,Fashion,Subcategory 49,FCAT-0051,Flipkart
+FCAT-0100,Fashion,Subcategory 50,FCAT-0101,Flipkart
+FCAT-0101,Accessories,Subcategory 1,,Flipkart
+FCAT-0102,Accessories,Subcategory 2,FCAT-0101,Flipkart
+FCAT-0103,Accessories,Subcategory 3,FCAT-0101,Flipkart
+FCAT-0104,Accessories,Subcategory 4,FCAT-0101,Flipkart
+FCAT-0105,Accessories,Subcategory 5,FCAT-0101,Flipkart
+FCAT-0106,Accessories,Subcategory 6,FCAT-0101,Flipkart
+FCAT-0107,Accessories,Subcategory 7,FCAT-0101,Flipkart
+FCAT-0108,Accessories,Subcategory 8,FCAT-0101,Flipkart
+FCAT-0109,Accessories,Subcategory 9,FCAT-0101,Flipkart
+FCAT-0110,Accessories,Subcategory 10,FCAT-0101,Flipkart
+FCAT-0111,Accessories,Subcategory 11,FCAT-0101,Flipkart
+FCAT-0112,Accessories,Subcategory 12,FCAT-0101,Flipkart
+FCAT-0113,Accessories,Subcategory 13,FCAT-0101,Flipkart
+FCAT-0114,Accessories,Subcategory 14,FCAT-0101,Flipkart
+FCAT-0115,Accessories,Subcategory 15,FCAT-0101,Flipkart
+FCAT-0116,Accessories,Subcategory 16,FCAT-0101,Flipkart
+FCAT-0117,Accessories,Subcategory 17,FCAT-0101,Flipkart
+FCAT-0118,Accessories,Subcategory 18,FCAT-0101,Flipkart
+FCAT-0119,Accessories,Subcategory 19,FCAT-0101,Flipkart
+FCAT-0120,Accessories,Subcategory 20,FCAT-0101,Flipkart
+FCAT-0121,Accessories,Subcategory 21,FCAT-0101,Flipkart
+FCAT-0122,Accessories,Subcategory 22,FCAT-0101,Flipkart
+FCAT-0123,Accessories,Subcategory 23,FCAT-0101,Flipkart
+FCAT-0124,Accessories,Subcategory 24,FCAT-0101,Flipkart
+FCAT-0125,Accessories,Subcategory 25,FCAT-0101,Flipkart
+FCAT-0126,Accessories,Subcategory 26,FCAT-0101,Flipkart
+FCAT-0127,Accessories,Subcategory 27,FCAT-0101,Flipkart
+FCAT-0128,Accessories,Subcategory 28,FCAT-0101,Flipkart
+FCAT-0129,Accessories,Subcategory 29,FCAT-0101,Flipkart
+FCAT-0130,Accessories,Subcategory 30,FCAT-0101,Flipkart
+FCAT-0131,Accessories,Subcategory 31,FCAT-0101,Flipkart
+FCAT-0132,Accessories,Subcategory 32,FCAT-0101,Flipkart
+FCAT-0133,Accessories,Subcategory 33,FCAT-0101,Flipkart
+FCAT-0134,Accessories,Subcategory 34,FCAT-0101,Flipkart
+FCAT-0135,Accessories,Subcategory 35,FCAT-0101,Flipkart
+FCAT-0136,Accessories,Subcategory 36,FCAT-0101,Flipkart
+FCAT-0137,Accessories,Subcategory 37,FCAT-0101,Flipkart
+FCAT-0138,Accessories,Subcategory 38,FCAT-0101,Flipkart
+FCAT-0139,Accessories,Subcategory 39,FCAT-0101,Flipkart
+FCAT-0140,Accessories,Subcategory 40,FCAT-0101,Flipkart
+FCAT-0141,Accessories,Subcategory 41,FCAT-0101,Flipkart
+FCAT-0142,Accessories,Subcategory 42,FCAT-0101,Flipkart
+FCAT-0143,Accessories,Subcategory 43,FCAT-0101,Flipkart
+FCAT-0144,Accessories,Subcategory 44,FCAT-0101,Flipkart
+FCAT-0145,Accessories,Subcategory 45,FCAT-0101,Flipkart
+FCAT-0146,Accessories,Subcategory 46,FCAT-0101,Flipkart
+FCAT-0147,Accessories,Subcategory 47,FCAT-0101,Flipkart
+FCAT-0148,Accessories,Subcategory 48,FCAT-0101,Flipkart
+FCAT-0149,Accessories,Subcategory 49,FCAT-0101,Flipkart
+FCAT-0150,Accessories,Subcategory 50,FCAT-0151,Flipkart
+FCAT-0151,Home & Furniture,Subcategory 1,,Flipkart
+FCAT-0152,Home & Furniture,Subcategory 2,FCAT-0151,Flipkart
+FCAT-0153,Home & Furniture,Subcategory 3,FCAT-0151,Flipkart
+FCAT-0154,Home & Furniture,Subcategory 4,FCAT-0151,Flipkart
+FCAT-0155,Home & Furniture,Subcategory 5,FCAT-0151,Flipkart
+FCAT-0156,Home & Furniture,Subcategory 6,FCAT-0151,Flipkart
+FCAT-0157,Home & Furniture,Subcategory 7,FCAT-0151,Flipkart
+FCAT-0158,Home & Furniture,Subcategory 8,FCAT-0151,Flipkart
+FCAT-0159,Home & Furniture,Subcategory 9,FCAT-0151,Flipkart
+FCAT-0160,Home & Furniture,Subcategory 10,FCAT-0151,Flipkart
+FCAT-0161,Home & Furniture,Subcategory 11,FCAT-0151,Flipkart
+FCAT-0162,Home & Furniture,Subcategory 12,FCAT-0151,Flipkart
+FCAT-0163,Home & Furniture,Subcategory 13,FCAT-0151,Flipkart
+FCAT-0164,Home & Furniture,Subcategory 14,FCAT-0151,Flipkart
+FCAT-0165,Home & Furniture,Subcategory 15,FCAT-0151,Flipkart
+FCAT-0166,Home & Furniture,Subcategory 16,FCAT-0151,Flipkart
+FCAT-0167,Home & Furniture,Subcategory 17,FCAT-0151,Flipkart
+FCAT-0168,Home & Furniture,Subcategory 18,FCAT-0151,Flipkart
+FCAT-0169,Home & Furniture,Subcategory 19,FCAT-0151,Flipkart
+FCAT-0170,Home & Furniture,Subcategory 20,FCAT-0151,Flipkart
+FCAT-0171,Home & Furniture,Subcategory 21,FCAT-0151,Flipkart
+FCAT-0172,Home & Furniture,Subcategory 22,FCAT-0151,Flipkart
+FCAT-0173,Home & Furniture,Subcategory 23,FCAT-0151,Flipkart
+FCAT-0174,Home & Furniture,Subcategory 24,FCAT-0151,Flipkart
+FCAT-0175,Home & Furniture,Subcategory 25,FCAT-0151,Flipkart
+FCAT-0176,Home & Furniture,Subcategory 26,FCAT-0151,Flipkart
+FCAT-0177,Home & Furniture,Subcategory 27,FCAT-0151,Flipkart
+FCAT-0178,Home & Furniture,Subcategory 28,FCAT-0151,Flipkart
+FCAT-0179,Home & Furniture,Subcategory 29,FCAT-0151,Flipkart
+FCAT-0180,Home & Furniture,Subcategory 30,FCAT-0151,Flipkart
+FCAT-0181,Home & Furniture,Subcategory 31,FCAT-0151,Flipkart
+FCAT-0182,Home & Furniture,Subcategory 32,FCAT-0151,Flipkart
+FCAT-0183,Home & Furniture,Subcategory 33,FCAT-0151,Flipkart
+FCAT-0184,Home & Furniture,Subcategory 34,FCAT-0151,Flipkart
+FCAT-0185,Home & Furniture,Subcategory 35,FCAT-0151,Flipkart
+FCAT-0186,Home & Furniture,Subcategory 36,FCAT-0151,Flipkart
+FCAT-0187,Home & Furniture,Subcategory 37,FCAT-0151,Flipkart
+FCAT-0188,Home & Furniture,Subcategory 38,FCAT-0151,Flipkart
+FCAT-0189,Home & Furniture,Subcategory 39,FCAT-0151,Flipkart
+FCAT-0190,Home & Furniture,Subcategory 40,FCAT-0151,Flipkart
+FCAT-0191,Home & Furniture,Subcategory 41,FCAT-0151,Flipkart
+FCAT-0192,Home & Furniture,Subcategory 42,FCAT-0151,Flipkart
+FCAT-0193,Home & Furniture,Subcategory 43,FCAT-0151,Flipkart
+FCAT-0194,Home & Furniture,Subcategory 44,FCAT-0151,Flipkart
+FCAT-0195,Home & Furniture,Subcategory 45,FCAT-0151,Flipkart
+FCAT-0196,Home & Furniture,Subcategory 46,FCAT-0151,Flipkart
+FCAT-0197,Home & Furniture,Subcategory 47,FCAT-0151,Flipkart
+FCAT-0198,Home & Furniture,Subcategory 48,FCAT-0151,Flipkart
+FCAT-0199,Home & Furniture,Subcategory 49,FCAT-0151,Flipkart
+FCAT-0200,Home & Furniture,Subcategory 50,FCAT-0201,Flipkart
+FCAT-0201,Beauty & Grooming,Subcategory 1,,Flipkart
+FCAT-0202,Beauty & Grooming,Subcategory 2,FCAT-0201,Flipkart
+FCAT-0203,Beauty & Grooming,Subcategory 3,FCAT-0201,Flipkart
+FCAT-0204,Beauty & Grooming,Subcategory 4,FCAT-0201,Flipkart
+FCAT-0205,Beauty & Grooming,Subcategory 5,FCAT-0201,Flipkart
+FCAT-0206,Beauty & Grooming,Subcategory 6,FCAT-0201,Flipkart
+FCAT-0207,Beauty & Grooming,Subcategory 7,FCAT-0201,Flipkart
+FCAT-0208,Beauty & Grooming,Subcategory 8,FCAT-0201,Flipkart
+FCAT-0209,Beauty & Grooming,Subcategory 9,FCAT-0201,Flipkart
+FCAT-0210,Beauty & Grooming,Subcategory 10,FCAT-0201,Flipkart
+FCAT-0211,Beauty & Grooming,Subcategory 11,FCAT-0201,Flipkart
+FCAT-0212,Beauty & Grooming,Subcategory 12,FCAT-0201,Flipkart
+FCAT-0213,Beauty & Grooming,Subcategory 13,FCAT-0201,Flipkart
+FCAT-0214,Beauty & Grooming,Subcategory 14,FCAT-0201,Flipkart
+FCAT-0215,Beauty & Grooming,Subcategory 15,FCAT-0201,Flipkart
+FCAT-0216,Beauty & Grooming,Subcategory 16,FCAT-0201,Flipkart
+FCAT-0217,Beauty & Grooming,Subcategory 17,FCAT-0201,Flipkart
+FCAT-0218,Beauty & Grooming,Subcategory 18,FCAT-0201,Flipkart
+FCAT-0219,Beauty & Grooming,Subcategory 19,FCAT-0201,Flipkart
+FCAT-0220,Beauty & Grooming,Subcategory 20,FCAT-0201,Flipkart
+FCAT-0221,Beauty & Grooming,Subcategory 21,FCAT-0201,Flipkart
+FCAT-0222,Beauty & Grooming,Subcategory 22,FCAT-0201,Flipkart
+FCAT-0223,Beauty & Grooming,Subcategory 23,FCAT-0201,Flipkart
+FCAT-0224,Beauty & Grooming,Subcategory 24,FCAT-0201,Flipkart
+FCAT-0225,Beauty & Grooming,Subcategory 25,FCAT-0201,Flipkart
+FCAT-0226,Beauty & Grooming,Subcategory 26,FCAT-0201,Flipkart
+FCAT-0227,Beauty & Grooming,Subcategory 27,FCAT-0201,Flipkart
+FCAT-0228,Beauty & Grooming,Subcategory 28,FCAT-0201,Flipkart
+FCAT-0229,Beauty & Grooming,Subcategory 29,FCAT-0201,Flipkart
+FCAT-0230,Beauty & Grooming,Subcategory 30,FCAT-0201,Flipkart
+FCAT-0231,Beauty & Grooming,Subcategory 31,FCAT-0201,Flipkart
+FCAT-0232,Beauty & Grooming,Subcategory 32,FCAT-0201,Flipkart
+FCAT-0233,Beauty & Grooming,Subcategory 33,FCAT-0201,Flipkart
+FCAT-0234,Beauty & Grooming,Subcategory 34,FCAT-0201,Flipkart
+FCAT-0235,Beauty & Grooming,Subcategory 35,FCAT-0201,Flipkart
+FCAT-0236,Beauty & Grooming,Subcategory 36,FCAT-0201,Flipkart
+FCAT-0237,Beauty & Grooming,Subcategory 37,FCAT-0201,Flipkart
+FCAT-0238,Beauty & Grooming,Subcategory 38,FCAT-0201,Flipkart
+FCAT-0239,Beauty & Grooming,Subcategory 39,FCAT-0201,Flipkart
+FCAT-0240,Beauty & Grooming,Subcategory 40,FCAT-0201,Flipkart
+FCAT-0241,Beauty & Grooming,Subcategory 41,FCAT-0201,Flipkart
+FCAT-0242,Beauty & Grooming,Subcategory 42,FCAT-0201,Flipkart
+FCAT-0243,Beauty & Grooming,Subcategory 43,FCAT-0201,Flipkart
+FCAT-0244,Beauty & Grooming,Subcategory 44,FCAT-0201,Flipkart
+FCAT-0245,Beauty & Grooming,Subcategory 45,FCAT-0201,Flipkart
+FCAT-0246,Beauty & Grooming,Subcategory 46,FCAT-0201,Flipkart
+FCAT-0247,Beauty & Grooming,Subcategory 47,FCAT-0201,Flipkart
+FCAT-0248,Beauty & Grooming,Subcategory 48,FCAT-0201,Flipkart
+FCAT-0249,Beauty & Grooming,Subcategory 49,FCAT-0201,Flipkart
+FCAT-0250,Beauty & Grooming,Subcategory 50,FCAT-0251,Flipkart
+FCAT-0251,Sports & Fitness,Subcategory 1,,Flipkart
+FCAT-0252,Sports & Fitness,Subcategory 2,FCAT-0251,Flipkart
+FCAT-0253,Sports & Fitness,Subcategory 3,FCAT-0251,Flipkart
+FCAT-0254,Sports & Fitness,Subcategory 4,FCAT-0251,Flipkart
+FCAT-0255,Sports & Fitness,Subcategory 5,FCAT-0251,Flipkart
+FCAT-0256,Sports & Fitness,Subcategory 6,FCAT-0251,Flipkart
+FCAT-0257,Sports & Fitness,Subcategory 7,FCAT-0251,Flipkart
+FCAT-0258,Sports & Fitness,Subcategory 8,FCAT-0251,Flipkart
+FCAT-0259,Sports & Fitness,Subcategory 9,FCAT-0251,Flipkart
+FCAT-0260,Sports & Fitness,Subcategory 10,FCAT-0251,Flipkart
+FCAT-0261,Sports & Fitness,Subcategory 11,FCAT-0251,Flipkart
+FCAT-0262,Sports & Fitness,Subcategory 12,FCAT-0251,Flipkart
+FCAT-0263,Sports & Fitness,Subcategory 13,FCAT-0251,Flipkart
+FCAT-0264,Sports & Fitness,Subcategory 14,FCAT-0251,Flipkart
+FCAT-0265,Sports & Fitness,Subcategory 15,FCAT-0251,Flipkart
+FCAT-0266,Sports & Fitness,Subcategory 16,FCAT-0251,Flipkart
+FCAT-0267,Sports & Fitness,Subcategory 17,FCAT-0251,Flipkart
+FCAT-0268,Sports & Fitness,Subcategory 18,FCAT-0251,Flipkart
+FCAT-0269,Sports & Fitness,Subcategory 19,FCAT-0251,Flipkart
+FCAT-0270,Sports & Fitness,Subcategory 20,FCAT-0251,Flipkart
+FCAT-0271,Sports & Fitness,Subcategory 21,FCAT-0251,Flipkart
+FCAT-0272,Sports & Fitness,Subcategory 22,FCAT-0251,Flipkart
+FCAT-0273,Sports & Fitness,Subcategory 23,FCAT-0251,Flipkart
+FCAT-0274,Sports & Fitness,Subcategory 24,FCAT-0251,Flipkart
+FCAT-0275,Sports & Fitness,Subcategory 25,FCAT-0251,Flipkart
+FCAT-0276,Sports & Fitness,Subcategory 26,FCAT-0251,Flipkart
+FCAT-0277,Sports & Fitness,Subcategory 27,FCAT-0251,Flipkart
+FCAT-0278,Sports & Fitness,Subcategory 28,FCAT-0251,Flipkart
+FCAT-0279,Sports & Fitness,Subcategory 29,FCAT-0251,Flipkart
+FCAT-0280,Sports & Fitness,Subcategory 30,FCAT-0251,Flipkart
+FCAT-0281,Sports & Fitness,Subcategory 31,FCAT-0251,Flipkart
+FCAT-0282,Sports & Fitness,Subcategory 32,FCAT-0251,Flipkart
+FCAT-0283,Sports & Fitness,Subcategory 33,FCAT-0251,Flipkart
+FCAT-0284,Sports & Fitness,Subcategory 34,FCAT-0251,Flipkart
+FCAT-0285,Sports & Fitness,Subcategory 35,FCAT-0251,Flipkart
+FCAT-0286,Sports & Fitness,Subcategory 36,FCAT-0251,Flipkart
+FCAT-0287,Sports & Fitness,Subcategory 37,FCAT-0251,Flipkart
+FCAT-0288,Sports & Fitness,Subcategory 38,FCAT-0251,Flipkart
+FCAT-0289,Sports & Fitness,Subcategory 39,FCAT-0251,Flipkart
+FCAT-0290,Sports & Fitness,Subcategory 40,FCAT-0251,Flipkart
+FCAT-0291,Sports & Fitness,Subcategory 41,FCAT-0251,Flipkart
+FCAT-0292,Sports & Fitness,Subcategory 42,FCAT-0251,Flipkart
+FCAT-0293,Sports & Fitness,Subcategory 43,FCAT-0251,Flipkart
+FCAT-0294,Sports & Fitness,Subcategory 44,FCAT-0251,Flipkart
+FCAT-0295,Sports & Fitness,Subcategory 45,FCAT-0251,Flipkart
+FCAT-0296,Sports & Fitness,Subcategory 46,FCAT-0251,Flipkart
+FCAT-0297,Sports & Fitness,Subcategory 47,FCAT-0251,Flipkart
+FCAT-0298,Sports & Fitness,Subcategory 48,FCAT-0251,Flipkart
+FCAT-0299,Sports & Fitness,Subcategory 49,FCAT-0251,Flipkart
+FCAT-0300,Sports & Fitness,Subcategory 50,FCAT-0301,Flipkart
+FCAT-0301,Books & Media,Subcategory 1,,Flipkart
+FCAT-0302,Books & Media,Subcategory 2,FCAT-0301,Flipkart
+FCAT-0303,Books & Media,Subcategory 3,FCAT-0301,Flipkart
+FCAT-0304,Books & Media,Subcategory 4,FCAT-0301,Flipkart
+FCAT-0305,Books & Media,Subcategory 5,FCAT-0301,Flipkart
+FCAT-0306,Books & Media,Subcategory 6,FCAT-0301,Flipkart
+FCAT-0307,Books & Media,Subcategory 7,FCAT-0301,Flipkart
+FCAT-0308,Books & Media,Subcategory 8,FCAT-0301,Flipkart
+FCAT-0309,Books & Media,Subcategory 9,FCAT-0301,Flipkart
+FCAT-0310,Books & Media,Subcategory 10,FCAT-0301,Flipkart
+FCAT-0311,Books & Media,Subcategory 11,FCAT-0301,Flipkart
+FCAT-0312,Books & Media,Subcategory 12,FCAT-0301,Flipkart
+FCAT-0313,Books & Media,Subcategory 13,FCAT-0301,Flipkart
+FCAT-0314,Books & Media,Subcategory 14,FCAT-0301,Flipkart
+FCAT-0315,Books & Media,Subcategory 15,FCAT-0301,Flipkart
+FCAT-0316,Books & Media,Subcategory 16,FCAT-0301,Flipkart
+FCAT-0317,Books & Media,Subcategory 17,FCAT-0301,Flipkart
+FCAT-0318,Books & Media,Subcategory 18,FCAT-0301,Flipkart
+FCAT-0319,Books & Media,Subcategory 19,FCAT-0301,Flipkart
+FCAT-0320,Books & Media,Subcategory 20,FCAT-0301,Flipkart
+FCAT-0321,Books & Media,Subcategory 21,FCAT-0301,Flipkart
+FCAT-0322,Books & Media,Subcategory 22,FCAT-0301,Flipkart
+FCAT-0323,Books & Media,Subcategory 23,FCAT-0301,Flipkart
+FCAT-0324,Books & Media,Subcategory 24,FCAT-0301,Flipkart
+FCAT-0325,Books & Media,Subcategory 25,FCAT-0301,Flipkart
+FCAT-0326,Books & Media,Subcategory 26,FCAT-0301,Flipkart
+FCAT-0327,Books & Media,Subcategory 27,FCAT-0301,Flipkart
+FCAT-0328,Books & Media,Subcategory 28,FCAT-0301,Flipkart
+FCAT-0329,Books & Media,Subcategory 29,FCAT-0301,Flipkart
+FCAT-0330,Books & Media,Subcategory 30,FCAT-0301,Flipkart
+FCAT-0331,Books & Media,Subcategory 31,FCAT-0301,Flipkart
+FCAT-0332,Books & Media,Subcategory 32,FCAT-0301,Flipkart
+FCAT-0333,Books & Media,Subcategory 33,FCAT-0301,Flipkart
+FCAT-0334,Books & Media,Subcategory 34,FCAT-0301,Flipkart
+FCAT-0335,Books & Media,Subcategory 35,FCAT-0301,Flipkart
+FCAT-0336,Books & Media,Subcategory 36,FCAT-0301,Flipkart
+FCAT-0337,Books & Media,Subcategory 37,FCAT-0301,Flipkart
+FCAT-0338,Books & Media,Subcategory 38,FCAT-0301,Flipkart
+FCAT-0339,Books & Media,Subcategory 39,FCAT-0301,Flipkart
+FCAT-0340,Books & Media,Subcategory 40,FCAT-0301,Flipkart
+FCAT-0341,Books & Media,Subcategory 41,FCAT-0301,Flipkart
+FCAT-0342,Books & Media,Subcategory 42,FCAT-0301,Flipkart
+FCAT-0343,Books & Media,Subcategory 43,FCAT-0301,Flipkart
+FCAT-0344,Books & Media,Subcategory 44,FCAT-0301,Flipkart
+FCAT-0345,Books & Media,Subcategory 45,FCAT-0301,Flipkart
+FCAT-0346,Books & Media,Subcategory 46,FCAT-0301,Flipkart
+FCAT-0347,Books & Media,Subcategory 47,FCAT-0301,Flipkart
+FCAT-0348,Books & Media,Subcategory 48,FCAT-0301,Flipkart
+FCAT-0349,Books & Media,Subcategory 49,FCAT-0301,Flipkart
+FCAT-0350,Books & Media,Subcategory 50,FCAT-0351,Flipkart
+FCAT-0351,Toys & Baby,Subcategory 1,,Flipkart
+FCAT-0352,Toys & Baby,Subcategory 2,FCAT-0351,Flipkart
+FCAT-0353,Toys & Baby,Subcategory 3,FCAT-0351,Flipkart
+FCAT-0354,Toys & Baby,Subcategory 4,FCAT-0351,Flipkart
+FCAT-0355,Toys & Baby,Subcategory 5,FCAT-0351,Flipkart
+FCAT-0356,Toys & Baby,Subcategory 6,FCAT-0351,Flipkart
+FCAT-0357,Toys & Baby,Subcategory 7,FCAT-0351,Flipkart
+FCAT-0358,Toys & Baby,Subcategory 8,FCAT-0351,Flipkart
+FCAT-0359,Toys & Baby,Subcategory 9,FCAT-0351,Flipkart
+FCAT-0360,Toys & Baby,Subcategory 10,FCAT-0351,Flipkart
+FCAT-0361,Toys & Baby,Subcategory 11,FCAT-0351,Flipkart
+FCAT-0362,Toys & Baby,Subcategory 12,FCAT-0351,Flipkart
+FCAT-0363,Toys & Baby,Subcategory 13,FCAT-0351,Flipkart
+FCAT-0364,Toys & Baby,Subcategory 14,FCAT-0351,Flipkart
+FCAT-0365,Toys & Baby,Subcategory 15,FCAT-0351,Flipkart
+FCAT-0366,Toys & Baby,Subcategory 16,FCAT-0351,Flipkart
+FCAT-0367,Toys & Baby,Subcategory 17,FCAT-0351,Flipkart
+FCAT-0368,Toys & Baby,Subcategory 18,FCAT-0351,Flipkart
+FCAT-0369,Toys & Baby,Subcategory 19,FCAT-0351,Flipkart
+FCAT-0370,Toys & Baby,Subcategory 20,FCAT-0351,Flipkart
+FCAT-0371,Toys & Baby,Subcategory 21,FCAT-0351,Flipkart
+FCAT-0372,Toys & Baby,Subcategory 22,FCAT-0351,Flipkart
+FCAT-0373,Toys & Baby,Subcategory 23,FCAT-0351,Flipkart
+FCAT-0374,Toys & Baby,Subcategory 24,FCAT-0351,Flipkart
+FCAT-0375,Toys & Baby,Subcategory 25,FCAT-0351,Flipkart
+FCAT-0376,Toys & Baby,Subcategory 26,FCAT-0351,Flipkart
+FCAT-0377,Toys & Baby,Subcategory 27,FCAT-0351,Flipkart
+FCAT-0378,Toys & Baby,Subcategory 28,FCAT-0351,Flipkart
+FCAT-0379,Toys & Baby,Subcategory 29,FCAT-0351,Flipkart
+FCAT-0380,Toys & Baby,Subcategory 30,FCAT-0351,Flipkart
+FCAT-0381,Toys & Baby,Subcategory 31,FCAT-0351,Flipkart
+FCAT-0382,Toys & Baby,Subcategory 32,FCAT-0351,Flipkart
+FCAT-0383,Toys & Baby,Subcategory 33,FCAT-0351,Flipkart
+FCAT-0384,Toys & Baby,Subcategory 34,FCAT-0351,Flipkart
+FCAT-0385,Toys & Baby,Subcategory 35,FCAT-0351,Flipkart
+FCAT-0386,Toys & Baby,Subcategory 36,FCAT-0351,Flipkart
+FCAT-0387,Toys & Baby,Subcategory 37,FCAT-0351,Flipkart
+FCAT-0388,Toys & Baby,Subcategory 38,FCAT-0351,Flipkart
+FCAT-0389,Toys & Baby,Subcategory 39,FCAT-0351,Flipkart
+FCAT-0390,Toys & Baby,Subcategory 40,FCAT-0351,Flipkart
+FCAT-0391,Toys & Baby,Subcategory 41,FCAT-0351,Flipkart
+FCAT-0392,Toys & Baby,Subcategory 42,FCAT-0351,Flipkart
+FCAT-0393,Toys & Baby,Subcategory 43,FCAT-0351,Flipkart
+FCAT-0394,Toys & Baby,Subcategory 44,FCAT-0351,Flipkart
+FCAT-0395,Toys & Baby,Subcategory 45,FCAT-0351,Flipkart
+FCAT-0396,Toys & Baby,Subcategory 46,FCAT-0351,Flipkart
+FCAT-0397,Toys & Baby,Subcategory 47,FCAT-0351,Flipkart
+FCAT-0398,Toys & Baby,Subcategory 48,FCAT-0351,Flipkart
+FCAT-0399,Toys & Baby,Subcategory 49,FCAT-0351,Flipkart
+FCAT-0400,Toys & Baby,Subcategory 50,FCAT-0401,Flipkart
+FCAT-0401,Auto Accessories,Subcategory 1,,Flipkart
+FCAT-0402,Auto Accessories,Subcategory 2,FCAT-0401,Flipkart
+FCAT-0403,Auto Accessories,Subcategory 3,FCAT-0401,Flipkart
+FCAT-0404,Auto Accessories,Subcategory 4,FCAT-0401,Flipkart
+FCAT-0405,Auto Accessories,Subcategory 5,FCAT-0401,Flipkart
+FCAT-0406,Auto Accessories,Subcategory 6,FCAT-0401,Flipkart
+FCAT-0407,Auto Accessories,Subcategory 7,FCAT-0401,Flipkart
+FCAT-0408,Auto Accessories,Subcategory 8,FCAT-0401,Flipkart
+FCAT-0409,Auto Accessories,Subcategory 9,FCAT-0401,Flipkart
+FCAT-0410,Auto Accessories,Subcategory 10,FCAT-0401,Flipkart
+FCAT-0411,Auto Accessories,Subcategory 11,FCAT-0401,Flipkart
+FCAT-0412,Auto Accessories,Subcategory 12,FCAT-0401,Flipkart
+FCAT-0413,Auto Accessories,Subcategory 13,FCAT-0401,Flipkart
+FCAT-0414,Auto Accessories,Subcategory 14,FCAT-0401,Flipkart
+FCAT-0415,Auto Accessories,Subcategory 15,FCAT-0401,Flipkart
+FCAT-0416,Auto Accessories,Subcategory 16,FCAT-0401,Flipkart
+FCAT-0417,Auto Accessories,Subcategory 17,FCAT-0401,Flipkart
+FCAT-0418,Auto Accessories,Subcategory 18,FCAT-0401,Flipkart
+FCAT-0419,Auto Accessories,Subcategory 19,FCAT-0401,Flipkart
+FCAT-0420,Auto Accessories,Subcategory 20,FCAT-0401,Flipkart
+FCAT-0421,Auto Accessories,Subcategory 21,FCAT-0401,Flipkart
+FCAT-0422,Auto Accessories,Subcategory 22,FCAT-0401,Flipkart
+FCAT-0423,Auto Accessories,Subcategory 23,FCAT-0401,Flipkart
+FCAT-0424,Auto Accessories,Subcategory 24,FCAT-0401,Flipkart
+FCAT-0425,Auto Accessories,Subcategory 25,FCAT-0401,Flipkart
+FCAT-0426,Auto Accessories,Subcategory 26,FCAT-0401,Flipkart
+FCAT-0427,Auto Accessories,Subcategory 27,FCAT-0401,Flipkart
+FCAT-0428,Auto Accessories,Subcategory 28,FCAT-0401,Flipkart
+FCAT-0429,Auto Accessories,Subcategory 29,FCAT-0401,Flipkart
+FCAT-0430,Auto Accessories,Subcategory 30,FCAT-0401,Flipkart
+FCAT-0431,Auto Accessories,Subcategory 31,FCAT-0401,Flipkart
+FCAT-0432,Auto Accessories,Subcategory 32,FCAT-0401,Flipkart
+FCAT-0433,Auto Accessories,Subcategory 33,FCAT-0401,Flipkart
+FCAT-0434,Auto Accessories,Subcategory 34,FCAT-0401,Flipkart
+FCAT-0435,Auto Accessories,Subcategory 35,FCAT-0401,Flipkart
+FCAT-0436,Auto Accessories,Subcategory 36,FCAT-0401,Flipkart
+FCAT-0437,Auto Accessories,Subcategory 37,FCAT-0401,Flipkart
+FCAT-0438,Auto Accessories,Subcategory 38,FCAT-0401,Flipkart
+FCAT-0439,Auto Accessories,Subcategory 39,FCAT-0401,Flipkart
+FCAT-0440,Auto Accessories,Subcategory 40,FCAT-0401,Flipkart
+FCAT-0441,Auto Accessories,Subcategory 41,FCAT-0401,Flipkart
+FCAT-0442,Auto Accessories,Subcategory 42,FCAT-0401,Flipkart
+FCAT-0443,Auto Accessories,Subcategory 43,FCAT-0401,Flipkart
+FCAT-0444,Auto Accessories,Subcategory 44,FCAT-0401,Flipkart
+FCAT-0445,Auto Accessories,Subcategory 45,FCAT-0401,Flipkart
+FCAT-0446,Auto Accessories,Subcategory 46,FCAT-0401,Flipkart
+FCAT-0447,Auto Accessories,Subcategory 47,FCAT-0401,Flipkart
+FCAT-0448,Auto Accessories,Subcategory 48,FCAT-0401,Flipkart
+FCAT-0449,Auto Accessories,Subcategory 49,FCAT-0401,Flipkart
+FCAT-0450,Auto Accessories,Subcategory 50,FCAT-0451,Flipkart
+FCAT-0451,Grocery,Subcategory 1,,Flipkart
+FCAT-0452,Grocery,Subcategory 2,FCAT-0451,Flipkart
+FCAT-0453,Grocery,Subcategory 3,FCAT-0451,Flipkart
+FCAT-0454,Grocery,Subcategory 4,FCAT-0451,Flipkart
+FCAT-0455,Grocery,Subcategory 5,FCAT-0451,Flipkart
+FCAT-0456,Grocery,Subcategory 6,FCAT-0451,Flipkart
+FCAT-0457,Grocery,Subcategory 7,FCAT-0451,Flipkart
+FCAT-0458,Grocery,Subcategory 8,FCAT-0451,Flipkart
+FCAT-0459,Grocery,Subcategory 9,FCAT-0451,Flipkart
+FCAT-0460,Grocery,Subcategory 10,FCAT-0451,Flipkart
+FCAT-0461,Grocery,Subcategory 11,FCAT-0451,Flipkart
+FCAT-0462,Grocery,Subcategory 12,FCAT-0451,Flipkart
+FCAT-0463,Grocery,Subcategory 13,FCAT-0451,Flipkart
+FCAT-0464,Grocery,Subcategory 14,FCAT-0451,Flipkart
+FCAT-0465,Grocery,Subcategory 15,FCAT-0451,Flipkart
+FCAT-0466,Grocery,Subcategory 16,FCAT-0451,Flipkart
+FCAT-0467,Grocery,Subcategory 17,FCAT-0451,Flipkart
+FCAT-0468,Grocery,Subcategory 18,FCAT-0451,Flipkart
+FCAT-0469,Grocery,Subcategory 19,FCAT-0451,Flipkart
+FCAT-0470,Grocery,Subcategory 20,FCAT-0451,Flipkart
+FCAT-0471,Grocery,Subcategory 21,FCAT-0451,Flipkart
+FCAT-0472,Grocery,Subcategory 22,FCAT-0451,Flipkart
+FCAT-0473,Grocery,Subcategory 23,FCAT-0451,Flipkart
+FCAT-0474,Grocery,Subcategory 24,FCAT-0451,Flipkart
+FCAT-0475,Grocery,Subcategory 25,FCAT-0451,Flipkart
+FCAT-0476,Grocery,Subcategory 26,FCAT-0451,Flipkart
+FCAT-0477,Grocery,Subcategory 27,FCAT-0451,Flipkart
+FCAT-0478,Grocery,Subcategory 28,FCAT-0451,Flipkart
+FCAT-0479,Grocery,Subcategory 29,FCAT-0451,Flipkart
+FCAT-0480,Grocery,Subcategory 30,FCAT-0451,Flipkart
+FCAT-0481,Grocery,Subcategory 31,FCAT-0451,Flipkart
+FCAT-0482,Grocery,Subcategory 32,FCAT-0451,Flipkart
+FCAT-0483,Grocery,Subcategory 33,FCAT-0451,Flipkart
+FCAT-0484,Grocery,Subcategory 34,FCAT-0451,Flipkart
+FCAT-0485,Grocery,Subcategory 35,FCAT-0451,Flipkart
+FCAT-0486,Grocery,Subcategory 36,FCAT-0451,Flipkart
+FCAT-0487,Grocery,Subcategory 37,FCAT-0451,Flipkart
+FCAT-0488,Grocery,Subcategory 38,FCAT-0451,Flipkart
+FCAT-0489,Grocery,Subcategory 39,FCAT-0451,Flipkart
+FCAT-0490,Grocery,Subcategory 40,FCAT-0451,Flipkart
+FCAT-0491,Grocery,Subcategory 41,FCAT-0451,Flipkart
+FCAT-0492,Grocery,Subcategory 42,FCAT-0451,Flipkart
+FCAT-0493,Grocery,Subcategory 43,FCAT-0451,Flipkart
+FCAT-0494,Grocery,Subcategory 44,FCAT-0451,Flipkart
+FCAT-0495,Grocery,Subcategory 45,FCAT-0451,Flipkart
+FCAT-0496,Grocery,Subcategory 46,FCAT-0451,Flipkart
+FCAT-0497,Grocery,Subcategory 47,FCAT-0451,Flipkart
+FCAT-0498,Grocery,Subcategory 48,FCAT-0451,Flipkart
+FCAT-0499,Grocery,Subcategory 49,FCAT-0451,Flipkart
+FCAT-0500,Grocery,Subcategory 50,FCAT-0501,Flipkart
